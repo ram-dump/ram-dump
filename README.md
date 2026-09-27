@@ -1,6 +1,6 @@
 # Hey! 👋, I'm Ramkumar  
 
-Associate Software Engineer at Lightcast India Pvt. Ltd. Where I am actively contributing Data Science Team to create and maintain Data and model Workflows.
+Associate Software Engineer at &nbsp; <img src="assests/lightcast logo.png" height="15"/> Lightcast India Pvt. Ltd. Where I am actively contributing Data Science Team to create and maintain Data and model Workflows.
 
 An Information Technology Graduate.
 
